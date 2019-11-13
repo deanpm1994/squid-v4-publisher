@@ -1,1 +1,1 @@
-"# squid-v4-publisher" 
+# squid-v4-publisher 
